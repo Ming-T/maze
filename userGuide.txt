@@ -1,0 +1,27 @@
+// Assignment 10 - Problem 2
+// Der Jennifer
+// jennder
+// Tseng Ming-Chiang
+// ming
+
+user guide
+
+keystrokes:
+p - display the min spanning tree edges
+r - reset the maze after displaying the min spanning tree
+n - initialize the maze, creates a new maze
+up - move player up, if the move is possible
+down - move player down, if the move is possible
+left - move player left, if the move is possible
+right -  move the player right, if the move is possible
+b - start breadth first search
+d - start depth first search
+w - display the solution path
+s - toggle the viewing of the visited vertices
+
+can change the scale of the size of the cells by changing the int 
+local variable called "scale" in the Maze class
+
+change the size of the maze by changing the int width and height in the
+main big bang method
+
